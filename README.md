@@ -1,4 +1,4 @@
-**A library to read a Wii Nunchuk joystick connected to an Ardunino Uno Board
+** A library to read a Wii Nunchuk joystick connected to an Ardunino Uno Board
 using the TWI protocol and the Wire library for the Arduino. **
 
 The main reason I coded this library was so I could use a Wii Nunchuk
@@ -22,6 +22,7 @@ Wii Nunchuks from Nintendo connected via a Nunchucky breakout board.
 I have not tried to test with any other 3rd party Nunchuk controllers.
 
 **Credits**
+
 To give credit where credit is due, I did research and looked at code
 from the following resources to help me code this library:
 
