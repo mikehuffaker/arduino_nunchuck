@@ -32,7 +32,7 @@ I have not tried to test with any other 3rd party Nunchuk controllers.
 To give credit where credit is due, I did research and looked at code
 from the following resources to help me code this library:
 
--Wii Nunchuk data logger at: http://www.windmeadow.com/node/54
--WiiChuckClass by Tim Hirzel at: http://playground.arduino.cc/Main/WiiChuckClass
--Chapter 7 in The Pragmatic Programmer by Maik Schmidt
+- Wii Nunchuk data logger at: http://www.windmeadow.com/node/54
+- WiiChuckClass by Tim Hirzel at: http://playground.arduino.cc/Main/WiiChuckClass
+- Chapter 7 in The Pragmatic Programmer by Maik Schmidt
 
