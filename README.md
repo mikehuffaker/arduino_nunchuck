@@ -18,9 +18,6 @@ values as percentages, instead of raw values to help the programmer using the
 library to get a read of the joystick position without actually having to
 code for the exact coordinate values. 
 
-This is a work in progress and I may still change the code and improve it
-more from time to time.
-
 ## Usage
 
 It should be noted that this library has only been tested with 2 actual
